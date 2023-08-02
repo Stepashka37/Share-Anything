@@ -27,7 +27,7 @@ http://localhost:8080
 4) Можно работать с проектом
 
 
-## Filmorate API ⚙️:
+## Share Anything API ⚙️:
 Примеры HTTP-запросов к контроллерам при запущенном приложении можно увидеть по ссылке:
 ```
 http://localhost:8080/swagger-ui/index.html
