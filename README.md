@@ -13,8 +13,13 @@ Share Anything - сервис шеринга вещей. Пользовател�
 ```
 git clone https://github.com/Stepashka37/java-filmorate.git
 ```
-2) Запустите проект в выбранной IDE
-
+2) Введите в консоли 
+```
+docker compose build
+```
+```
+docker compose up
+```
 3) Перейдите по адресу
 ```
 http://localhost:8080
