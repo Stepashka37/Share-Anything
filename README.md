@@ -11,7 +11,7 @@ Share Anything - сервис шеринга вещей. Пользовател�
 
 1) Склонируйте репозиторий и перейдите в него
 ```
-git clone https://github.com/Stepashka37/java-filmorate.git
+git clone https://github.com/Stepashka37/Share-Anything.git
 ```
 2) Введите в консоли 
 ```
